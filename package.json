@@ -1,0 +1,24 @@
+{
+  "name": "glsl-triplanar-mapping",
+  "version": "1.0.1",
+  "description": "📐 GLSL Triplanar texture mapping. glslify format.",
+  "main": "index.glsl",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JonasFolletete/glsl-triplanar-mapping.git"
+  },
+  "keywords": [
+    "glsl",
+    "triplanar",
+    "triplanar-mapping",
+    "mapping",
+    "three.js",
+    "webgl",
+    "glslify"
+  ],
+  "author": "Jonas Folletête",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonasFolletete/glsl-triplanar-mapping/issues"
+	}
+}
